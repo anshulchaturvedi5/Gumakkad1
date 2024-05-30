@@ -1,16 +1,1 @@
-# ghumakkad_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ghumakkad revolutionizes travel planning in India with a user-friendly app offering detailed guides, local insights, user reviews, and a 24/7 chatbot for support. Promoting responsible tourism, Ghumakkad ensures memorable, immersive, and hassle-free experiences across India's diverse destinations and rich cultural landscape.
