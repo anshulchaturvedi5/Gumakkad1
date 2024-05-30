@@ -1,1 +1,2 @@
 Ghumakkad revolutionizes travel planning in India with a user-friendly app offering detailed guides, local insights, user reviews, and a 24/7 chatbot for support. Promoting responsible tourism, Ghumakkad ensures memorable, immersive, and hassle-free experiences across India's diverse destinations and rich cultural landscape.
+![image](https://github.com/anshulchaturvedi5/Gumakkad1/assets/114844789/08e6aa65-1d6e-4978-b43d-f8938c573386)
