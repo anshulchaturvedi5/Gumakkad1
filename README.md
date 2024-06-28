@@ -41,6 +41,11 @@ Ghumakkad revolutionizes travel planning in India by offering a centralized, use
 4. **Personalize Your Journey**: Utilize search and filter options to tailor your exploration.
 5. **Get Support**: Access our 24/7 chatbot for assistance and recommendations.
 
+## Project Presentation
+
+For a detailed project presentation, please refer to our [Ghumakkad Project Presentation](https://drive.google.com/file/d/1OnK2uscJtp5ZAYaZXp8cSun-xO8jeTB7/view?usp=sharing).
+
+
 
 
 
